@@ -1,0 +1,3 @@
+const getAllPRoducts = (req, res) ={
+    
+}
